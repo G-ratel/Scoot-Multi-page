@@ -436,6 +436,12 @@ footer {
     }
 }
 @media (max-width: 891px) {
+    #home {
+        background-image: url(../img/images/home-hero-tablet.jpg);
+    }
+    #abhome {
+        background-image: url(../img/images/about-hero-tablet.jpg);
+    }
     .hd_nav, .ft_nav {
         flex: 44%;
         max-width: 44%;
@@ -534,6 +540,12 @@ footer {
 
 }
 @media (max-width: 536px) {
+    #home {
+        background-image: url(../img/images/home-hero-mobile.jpg);
+    }
+    #abhome {
+        background-image: url(../img/images/about-hero-mobile.jpg);
+    }
     .ft_image, .ft_icon, .ft_nav {
         flex: 100%;
         max-width: 100%;
